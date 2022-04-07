@@ -1,3 +1,13 @@
 
 # python virtual environment
 venv
+
+# dbt logs
+logs
+
+# specific target files.
+# I think I want to keep target/compiled and target/run. for now. 
+target/graph.gpickle
+target/manifest.json
+target/partial_parse.msgpack
+target/run_results.json
