@@ -112,9 +112,8 @@ Found 2 models, 4 tests, 0 snapshots, 0 analyses, 162 macros, 0 operations, 0 se
 Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
 ```
 
+## Experiments
 
+* [Slowly Changing Dimensions (Type 0, 1, 2) with dbt](_experiments/01_SCD_snapshots.md)
 
-
-
-## experiment 1 - SCD type 0, 1, 2 with snapshots
 
